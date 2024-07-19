@@ -33,7 +33,6 @@
     <img src="https://github.com/user-attachments/assets/0e5cc4c6-1fbd-42bd-9bc1-e7c8d0e76655" alt="Monthly Report Generation Example" width="600">
     <p>The Monthly Transaction Report:</p><br>
       <img src="https://github.com/user-attachments/assets/030adfa6-c7d1-4ea3-ad09-5f8fe4db4bba" alt="Monthly Report Generation Example" width="600"><br>
-      <a href="https://drive.google.com/file/d/1f8-ySs_a3zXZ7cvcOGgmLgMCXOzTWE6x/view?usp=sharing">View The Monthly Summary</a>.
     <h2>Data Visualization</h2>
     <p>The project includes various data visualizations to enhance the understanding of the financial data:</p>
     <ul>
@@ -56,7 +55,8 @@
         <li>View the generated financial report and data visualizations.</li>
         <li>Download the monthly summary CSV file for further analysis.</li>
     </ol>
-    <img src="https://github.com/user-attachments/assets/5ddf5584-1171-420c-a98c-29ce575c6092" alt="User Interface" width="600">
+    <img src="https://github.com/user-attachments/assets/5ddf5584-1171-420c-a98c-29ce575c6092" alt="User Interface" width="600"><br>
+    <a href="https://drive.google.com/file/d/1f8-ySs_a3zXZ7cvcOGgmLgMCXOzTWE6x/view?usp=sharing">View The Monthly Summary</a>.
     <h2>Generated Output</h2>
     <p>Below is an example of the generated output, which includes the detailed financial report and visualizations:</p>
     <img src="https://github.com/user-attachments/assets/83495190-6aec-4a91-a5bd-d4e4dbb0c6ec" alt="Generated Output Example" width="600">
