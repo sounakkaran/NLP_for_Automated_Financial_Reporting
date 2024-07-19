@@ -12,7 +12,7 @@
     <h2>Working of the Model</h2>
     <h3>1. Data Extraction</h3>
     <p>The model starts by extracting financial data from a CSV file uploaded by the user. The CSV file should contain columns for <code>Date</code>, <code>Description</code>, <code>Amount</code>, <code>Transaction Type</code>, <code>Category</code>, and <code>Account Name</code>.</p>
-    <img src="./images/" alt="Data Extraction Example" width="600">
+    <img src="https://github.com/user-attachments/assets/ca374346-1c6f-44cc-87db-028480c7ac47" alt="Data Extraction Example" width="600">
     <h3>2. NLP Analysis</h3>
     <p>The extracted data is then analyzed using NLP techniques. Sentiment analysis is performed on the transaction descriptions to understand the sentiment associated with each transaction. The model also categorizes and aggregates the data for further analysis.</p>
     <img src="nlp_analysis_example.png" alt="NLP Analysis Example" width="600">
